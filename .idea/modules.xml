@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/Дневник/Сборщики/vue2/src/Components/Blocks/.idea/Blocks.iml" filepath="E:/Дневник/Сборщики/vue2/src/Components/Blocks/.idea/Blocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/laravel-net.iml" filepath="$PROJECT_DIR$/.idea/laravel-net.iml" />
+      <module fileurl="file://E:/Дневник/Сборщики/vue2/.idea/vue2.iml" filepath="E:/Дневник/Сборщики/vue2/.idea/vue2.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,52 @@
+html, body {
+    background-color: #fff;
+    color: $color_silver;
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+a, a:hover {
+    color: #636b6f;
+}
+
+img {
+    max-width: 100%;
+}
+
+ul {
+    padding-left: 0px;
+    list-style: none;
+}
+
+.links > a {
+    color: #636b6f;
+    margin: 0 15px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.links > a.active {
+    color: $color_accent;
+}
+
+.m-b-md {
+    margin-bottom: 30px;
+}
+
+.nav {
+    justify-content: center;
+
+    &__block {
+        padding-bottom: 60px;
+    }
+}
+
+a, a:hover {
+    text-decoration: none;
+}

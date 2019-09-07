@@ -1,0 +1,51 @@
+.home {
+    display: flex;
+    padding-bottom: 40px;
+
+    &__left {
+        max-width: 300px;
+        margin-right: 20px;
+    }
+
+    &__right {
+        flex: 1;
+    }
+}
+
+.home-image {
+    &__top {
+        margin-bottom: 20px;
+    }
+
+    &__bottom {
+        display: flex;
+        align-items: center;
+
+        button:first-child {
+            margin-right: 15px;
+        }
+    }
+
+    &__like {
+        margin-left: auto;
+    }
+}
+
+.home-posts {
+    &__top {
+        display: flex;
+        margin-bottom: 20px;
+    }
+
+    &__create {
+        margin-left: auto;
+    }
+	
+	&__new {
+		display: none;
+	}
+
+    &__item {
+        margin-bottom: 20px;
+    }
+}
